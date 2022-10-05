@@ -3,7 +3,7 @@
 //
 #include <iostream>
 int main(){
-    std::cout<<"sdjfslkjdfslhgosdilgj";
+    std::cout<<3+2;
     return 0;
 }
 #include "code_2.h"
